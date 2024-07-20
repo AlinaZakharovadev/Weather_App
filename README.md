@@ -15,4 +15,4 @@ This Weather App project allows users to input a location and view real-time wea
 
 ## API Usage
 
-- This app uses the [OpenWeather](https://openweathermap.org/) API to fetch weather data.
+- This app uses the [OpenWeather](https://openweathermap.org/) API to fetch weather data. Use YOUR_API_KEY
