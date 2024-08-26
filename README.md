@@ -1,6 +1,6 @@
 # Weather App
 
-This Weather App project allows users to input a location and view real-time weather information including temperature, wind speed, and humidity.
+This Weather App project allows users to input a location and view real-time weather information including temperature, wind speed, and humidity from the the OpenWeather API.
 
 ## Features
 
